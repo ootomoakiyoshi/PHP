@@ -7,9 +7,8 @@
   <title>PHP</title>
 </head>
 <body>
-<?php
-    // 'Hello, world!'をechoしてください
-    echo 'Hello, world!';
-  ?>
+<?php echo 'Hello, world!'; ?>
+<?php echo 5+2; ?>
+<?php echo "5+2"; ?>
 </body>
 </html>
