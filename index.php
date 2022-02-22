@@ -9,5 +9,16 @@
 </head>
 <body>
   <?php echo "Hello,wold!"; ?>
+
+<?php
+   echo "5 + 7";
+?>
+  
+  <?php
+     echo 5 + 7;
+  ?>
+
+
+
 </body>
 </html>
