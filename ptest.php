@@ -47,3 +47,22 @@ if($input > 0){
   }
 }
 ?>
+<?php
+for($i =0; $i <10; $i++){
+    echo "hello".PHP_EOL;
+}
+?>
+
+<?php
+$input = readline("整数値 ");
+for($i=0; $i<=$input; $i++){
+  echo $i.PHP_EOL;
+}
+
+?>
+<?php
+$input = readline("整数値 ");
+for($i=$input;$i>=0;$i--){
+  echo $i.PHP_EOL;
+}
+?>
