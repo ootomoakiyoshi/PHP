@@ -1,0 +1,17 @@
+メモ
+
+デベロッパーツールは、Chromeが提供する機能の１つです。
+Webサイトの要素を確認したり、サイトのコードを試しに編集することができます。
+HTMLやCSSの文が、そのまま目に見えて動くのでとてもわかりやすく、Webデザインの仕事でもよく使われています。
+ほかにもページの速度を計測したり、JavaScriptのエラーを確認するなど、さまざまな機能がある
+
+Mac command+option+i
+windows F12 or ctrl+shift+i
+
+デバックツール
+https://validator.w3.org/#validate_by_input
+
+
+HTML
+
+command+/  でコメント
